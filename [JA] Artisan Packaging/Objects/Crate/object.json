@@ -1,0 +1,38 @@
+{
+    "Name": "Crate",
+    "Description": "Used for shipping.",
+    "Category": "ArtisanGoods",
+	"CategoryTextOverride": "Crate",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": true,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "", 
+        //"ru": "",
+         // "tr": "",
+        "zh": "板条箱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Utilizado para el envío",
+        //"ko": "",
+        //"de": "",
+        "fr": "Utilisé pour l'expédition",
+        //"hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "用于运输。",
+    }
+}

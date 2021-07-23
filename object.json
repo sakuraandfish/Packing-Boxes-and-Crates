@@ -1,0 +1,36 @@
+{
+    "Name": "Paradox",
+    "Description": "A logically self-contradiction.",
+    "Category": "Junk",
+    "Edibility": -300,
+    "Price": 0,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "", 
+        //"ru": "",
+         // "tr": "",
+        "zh": "悖论",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "逻辑上的自相矛盾。",
+    }
+}

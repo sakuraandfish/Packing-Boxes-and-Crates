@@ -1,0 +1,60 @@
+{
+    "Name": "Boxer",
+    "Description": "Uses 1 wood to pack 16 Produce into a box, increasing their total value by 1000g.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 5,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 75,
+        },
+        {
+            "Object": 787,
+            "Count": 1,
+        },
+        {
+            "Object": 334,
+            "Count": 5,
+        },
+        {
+            "Object": 335,
+            "Count": 2,
+        }, ],
+		"CanPurchase": true,
+		"PurchaseFrom": "Pierre",
+		"PurchasePrice": 4000
+    },
+    "CanPurchase": false,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        "zh": "装箱器",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Utiliza 1 madera para empacar 16 productos en una caja, lo que aumenta su valor total en 1000.",
+       // "ko": "",
+       // "de": "",
+        "fr": "Utilise 1 bois pour emballer 16 produits dans une boîte, augmentant leur valeur totale de 1000.",
+       // "hu": "",
+        // "it": "",
+       // "ja": "",
+      //  "pt": "",
+      //  "ru": "",
+        // "tr": "",
+      "zh": "使用 1 块木头将 16 个农产品装入一个盒子，使它们的总价值增加 1000 金。",
+    }
+}

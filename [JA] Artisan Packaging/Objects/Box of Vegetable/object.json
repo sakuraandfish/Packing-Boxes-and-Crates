@@ -1,0 +1,38 @@
+{
+    "Name": "Box of Vegetables",
+    "Description": "A boxed packed with produce. Makes shipping easier!",
+    "Category": "ArtisanGoods",
+	"CategoryTextOverride": "Box",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": true,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "", 
+        //"ru": "",
+         // "tr": "",
+        "zh": "打包盒(蔬菜)",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una caja llena de productos. ¡Facilita el envío!",
+        //"ko": "",
+        //"de": "",
+        "fr": "Une boîte remplie de produits. Facilite l'expédition!",
+        //"hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "装满农产品的箱子使运输更加容易!",
+    }
+}

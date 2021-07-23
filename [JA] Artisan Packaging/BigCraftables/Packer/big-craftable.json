@@ -1,0 +1,67 @@
+{
+    "Name": "Packer",
+    "Description": "Uses 3 wood to pack 10 Artisan Goods into a crate, increasing their value by 10%.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 5,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 338,
+            "Count": 8,
+        },
+        {
+            "Object": 787,
+            "Count": 1,
+        },
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 336,
+            "Count": 5,
+        },
+        {
+            "Object": 337,
+            "Count": 1,
+        }, ],
+		"CanPurchase": true,
+		"PurchaseFrom": "Pierre",
+		"PurchasePrice": 18000,
+		"PurchaseRequirements": [
+			"j 56",
+		]
+    },
+    "CanPurchase": false,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        "zh": "打包机",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Utiliza 3 maderas para empaquetar 10 productos artesanales en una caja, lo que aumenta su valor en un 10%.",
+        //"ko": "",
+       // "de": "",
+        "fr": "Utilise 3 bois pour emballer 10 objets artisanaux dans une caisse, augmentant leur valeur de 10 %.",
+       // "hu": "",
+        // "it": "",
+       // "ja": "",
+       // "pt": "",
+       // "ru": "",
+        // "tr": "",
+        "zh": "用3块木头将10个工匠物品装进板条箱，增加10%的价值。",
+    }
+}

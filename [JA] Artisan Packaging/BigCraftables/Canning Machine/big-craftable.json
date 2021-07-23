@@ -1,0 +1,55 @@
+{
+    "Name": "Fish Cannery",
+    "Description": "Used to package fish into convenient cans.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 390,
+            "Count": 50,
+        },
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 334,
+            "Count": 5,
+        }, ],
+		"CanPurchase": false,
+		"SkillUnlockName": "Fishing",
+		"SkillUnlockLevel": 6,
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        // "de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "鱼装罐机",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Se utiliza para envasar pescado en latas convenientes.",
+        //"ko": "",
+        // "de": "",
+        "fr": "Utilisé pour emballer le poisson dans des boîtes pratiques.",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用来把鱼包装成方便的罐头。",
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Can of Fish",
+    "Description": "Fresh fish preserved in an easy to open can.",
+    "Category": "ArtisanGoods",
+    "Edibility": 10,
+    "Price": 250,
+    "IsColored": true,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "생선 통조림",
+        // "de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "鱼罐头",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        // "de": "",
+        //"fr": "",
+       // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "保存在易于打开的罐中的鲜鱼。",
+    }
+}
